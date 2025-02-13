@@ -30,4 +30,3 @@ https://youtu.be/nPEpaft1y1k?feature=shared
 
  - Se você encontrar algum erro ou tiver alguma sugestão, por favor, abra um issue no GitHub.
 
-Espero que isso ajude!
