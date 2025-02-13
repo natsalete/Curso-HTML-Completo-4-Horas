@@ -30,3 +30,7 @@ https://youtu.be/nPEpaft1y1k?feature=shared
 
  - Se você encontrar algum erro ou tiver alguma sugestão, por favor, abra um issue no GitHub.
 
+## 📄 Licença  
+Este projeto está sob a licença MIT – consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
